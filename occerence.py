@@ -30,11 +30,12 @@
 #     i = i + 1
 # print new_1
 
-CHARS = 26
-def isValidString(str): 
+# CHARS = 26
+# def isValidString(str): 
   
-    freq = [0]*CHARS 
-    for i in range(len(str)): 
-        # freq[ord(str[i])-ord('a')] += 1
+#     freq = [0]*CHARS 
+#     for i in range(len(str)): 
+#         # freq[ord(str[i])-ord('a')] += 1
 
-isValidString("abc")
+# isValidString("abc")
+
