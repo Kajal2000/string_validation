@@ -1,15 +1,26 @@
 {
   "name": "logical_qus_in_node",
   "version": "1.0.0",
-  "description": "",
   "main": "string_valid.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "esprima": "^4.0.1",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kajal2000/string_validation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kajal2000/string_validation/issues"
+  },
+  "homepage": "https://github.com/Kajal2000/string_validation#readme",
+  "description": ""
 }
